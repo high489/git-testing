@@ -2,11 +2,12 @@ body {
   background-color: azure;
 }
 
+
 p {
-  color: cadetblue;
+  color: darkblue;
 }
 
 p > a {
-  text-decoration: dotted;
-  color: coral;
-} 
+  text-decoration: none;
+  color: darkblue;
+}
